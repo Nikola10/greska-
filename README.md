@@ -1,2 +1,0 @@
-# greska-
-greska u kodu
